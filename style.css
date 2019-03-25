@@ -36,3 +36,14 @@ a {
 .keywords {
     color: #ff79c6;
 }
+
+.truncate > .expand {
+    color: #808080;
+    cursor: pointer;
+    font-style: italic;
+}
+
+.unpacked {
+    cursor: pointer;
+    color: #D3D3D3;
+}

@@ -1,4 +1,4 @@
-var truncateTable = {};
+const truncateTable = {};
 window.onload = () => {
     const blocks = document.getElementsByClassName("truncate");
     for (let block of blocks) {
